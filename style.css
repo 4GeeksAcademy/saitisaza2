@@ -1,0 +1,36 @@
+body {
+	background: black;
+  margin: auto;
+
+
+}
+
+.payment{
+
+  background-color: white;
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+
+}
+
+.bottom{
+ display:block
+}
+
+.btn1{
+  padding-left: 830px;
+}
+
+.middle{
+ padding-top: 10px;
+}
+
+
+
+.bottom{
+  padding-top: 30px;
+}
+  
+ 
+
